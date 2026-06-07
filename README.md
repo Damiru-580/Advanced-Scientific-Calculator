@@ -1,2 +1,24 @@
-# Advanced-Scientific-Calculator
-Advanced Scientific Calculator built with HTML, CSS, and JavaScript. Features include Dark Mode, Calculation History, Local Storage, Keyboard Support, Percentage, Square Root, and Square functions.
+# Advanced Scientific Calculator
+
+A modern scientific calculator built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Basic arithmetic operations
+- Percentage (%)
+- Square Root (√)
+- Square (x²)
+- Dark Mode
+- Keyboard Support
+- Calculation History
+- Local Storage
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Author
+
+Damiru kethmika
