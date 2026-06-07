@@ -19,6 +19,10 @@ A modern scientific calculator built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
+## Live Demo
+
+https://damiru-580.github.io/Advanced-Scientific-Calculator/
+
 ## Author
 
 Damiru kethmika
